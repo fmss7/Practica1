@@ -1,0 +1,64 @@
+body{
+    background-color: midnightblue;
+    color: snow;
+    width: 99%;
+    height: 99%;
+}
+div#titulo1{
+    color: beige;
+    background-color: crimson;
+    text-align:center;
+    padding:1%;
+    width: 99%;
+    margin-left: -1%;
+    margin-top: -1%;
+}
+
+a#titulo2, a#titulo3, a#titulo4, a#titulo5, a#titulo6{
+    background-color: crimson;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    margin-left: -1%;
+}
+
+p#descripcion{
+    width:65%;
+    float: left;
+    text-align: left;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+div#enlaces{
+    width: 275px;
+    height: 406px;
+    line-height: 30px;
+    background-color: beige;
+    color: midnightblue;
+    margin-left: -1%;
+    float: left;
+}
+
+div#final{
+    background-color: crimson;
+    width: 100%;
+    height: 125px;
+    margin-top: 406px;
+    margin-left: -1%;
+}
+
+h3#tituloRutas{
+    color: crimson;
+    margin-left: 20px;
+}
+
+table, th, td {
+    border: 1px solid white;
+    padding: 3px;
+    text-align: center;
+    border-spacing: 2px;
+    background-color: crimson;
+    color: black;
+}
